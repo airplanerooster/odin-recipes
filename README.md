@@ -1,0 +1,1 @@
+Im not sure what to write about. I dont know what this project will be at this current venture. I am in the beginning stages of the odin project. Thus far i have learned a little about using the unix command line and i have relearned some html. I am excited to see what the future holds.
